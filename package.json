@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "UNH Coding Bootcamp Week 13 Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keiranevers/FriendFinder.git"
+  },
+  "author": "Keira Nevers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keiranevers/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/keiranevers/FriendFinder#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
